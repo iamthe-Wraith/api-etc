@@ -1,0 +1,19 @@
+{
+  "name": "api-etc",
+  "version": "0.0.1",
+  "description": "etc directory to add to api projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamthe-Wraith/api-etc.git"
+  },
+  "author": "iamthe-Wraith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamthe-Wraith/api-etc/issues"
+  },
+  "homepage": "https://github.com/iamthe-Wraith/api-etc#readme"
+}
